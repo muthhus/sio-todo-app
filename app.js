@@ -1,3 +1,7 @@
+Ext.Loader.setPath({
+    'Ext': "./sdk/src"
+});
+
 
 Ext.application({
 
