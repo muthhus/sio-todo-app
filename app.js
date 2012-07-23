@@ -1,5 +1,6 @@
 //Add Sencha.io to the loader's source path.
 Ext.Loader.setPath({
+    'Ext': "./sdk/src",
     'Ext.io': 'io/src/io',
     'Ext.cf': 'io/src/cf'
 });

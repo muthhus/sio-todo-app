@@ -11,6 +11,7 @@ Ext.define('MyApp.view.Todos', {
     requires: [
       "Ext.TitleBar",
       "Ext.dataview.List",
+       "Ext.field.Text",
       "Ext.io.ux.AuthButton"
     ],
     
