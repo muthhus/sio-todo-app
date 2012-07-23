@@ -10,7 +10,8 @@ Ext.define('MyApp.view.Todos', {
     
     requires: [
       "Ext.TitleBar",
-      "Ext.dataview.List"
+      "Ext.dataview.List",
+      "Ext.field.Text"
     ],
     
     config: {
